@@ -4,7 +4,7 @@ import java.util.function.BiConsumer; //импорт интерфейса BiCons
 import java.util.stream.Collectors; //импорт класса Collectors из пакета stream
 import java.util.stream.Stream; // импорт класса Stream из пакета stream
 
-public class HomeWork1 {
+public class ListAndStream {
     public static void main(String[] args) {
 
         List<Integer> list = List.of(2, 6, 1, 9, 4, 3, 5, 7, 3, 9, 2, 7, 3, 2, 6, 8, 5); // в переменную "list"
